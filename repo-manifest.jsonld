@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mne-tools/mne-gui-addons/commit/3c78042bbfecee457f146dd667b3ee5e286adff4",
       "git:hexsha": "3c78042bbfecee457f146dd667b3ee5e286adff4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T17:06:15.506277+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mne-tools/mne-gui-addons/commit/7f37a8a14f75efd1ea61c383f8d3cc8aa891f8f5",
